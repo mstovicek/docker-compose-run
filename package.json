@@ -1,0 +1,19 @@
+{
+  "name": "docker-composer-run",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Milan Stovicek <stovicek.milan@gmail.com>",
+  "dependencies": {},
+  "devDependencies": {
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^3.9.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-html-replace": "^1.6.2",
+    "gulp-minify": "^1.0.0",
+    "gulp-rev": "^8.0.0",
+    "gulp-rev-replace": "^0.4.3",
+    "gulp-sequence": "^0.4.6",
+    "js-yaml": "^3.10.0"
+  }
+}
